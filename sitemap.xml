@@ -102,13 +102,17 @@
     <priority>0.8</priority>
   </url>
 
-<url>
+  <url>
     <loc>https://pakjunko.github.io/17.html</loc>
     <lastmod>2026-08-25</lastmod>
     <priority>0.8</priority>
   </url>
 
-  
+  <url>
+    <loc>https://pakjunko.github.io/18.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <priority>0.8</priority>
+  </url>
 
   <url>
     <loc>https://pakjunko.github.io/22.html</loc>
