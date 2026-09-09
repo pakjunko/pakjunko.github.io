@@ -160,11 +160,19 @@
     <loc>https://pakjunko.github.io/26.html</loc>
     <lastmod>2026-09-09</lastmod>
     <priority>0.8</priority>
-  </url>
+   </url>
 
   <url>
     <loc>https://pakjunko.github.io/27.html</loc>
     <lastmod>2026-08-19</lastmod>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://pakjunko.github.io/28.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+
 </urlset>
