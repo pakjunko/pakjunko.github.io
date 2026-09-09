@@ -138,9 +138,15 @@
     <priority>0.8</priority>
   </url>
 
-<url>
+  <url>
     <loc>https://pakjunko.github.io/23.html</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-09-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://pakjunko.github.io/24.html</loc>
+    <lastmod>2026-09-09</lastmod>
     <priority>0.8</priority>
   </url>
 
